@@ -1,11 +1,9 @@
-/* #include <iostream> // header to use cout or cin without std:: infront of it
-#include <iomanip> // header to use setprecision manipulator
-#include <cmath> // header to use multiple math functions to avoid creating them myself
-#include "menu.hpp"
-using namespace std; */
-
 #ifndef RESULTANT_CALC_HPP
 #define RESULTANT_CALC_HPP
+#include <iostream>
+using namespace std;
+
+void menu();
 
 void determine_resultant() {
     int choice, decimal_place, x_component_choice, y_component_choice;

@@ -1,9 +1,7 @@
-/* #include <iostream>
-#include "resultant_calc.hpp"
-using namespace std; */
-
 #ifndef MENU_HPP
 #define MENU_HPP
+#include <iostream>
+using namespace std;
 
 void menu() {
     int choice;

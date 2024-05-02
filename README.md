@@ -11,3 +11,4 @@ https://cplusplus.com/reference/cmath/cos/
 https://www.w3schools.com/cpp/cpp_math.asp
 https://www.w3schools.com/cpp/cpp_data_types.asp
 https://www.w3schools.com/cpp/cpp_operators.asp
+https://www.programiz.com/cpp-programming/library-function/cmath/pow

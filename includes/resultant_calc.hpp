@@ -74,7 +74,7 @@ void determine_resultant() {
         cin >> x2;
         cout << "Enter the value for Y2: ";
         cin >> y2;
-        resultant = sqrt ( ((x1 + x2) * (x1 + x2)) + ((y1 + y2) * (y1 + y2)) ); // broken calculation
+        resultant = sqrt ( (pow((x1 + x2), 2)) + (pow((y1 + y2), 2)) ); // broken calculation
         cout << fixed << setprecision(decimal_place);
         cout << "Resultant: " << resultant;
         cout << "\nWould you like to go back to the main menu or calculate something else in here? \n";
